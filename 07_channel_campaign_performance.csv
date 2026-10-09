@@ -1,0 +1,9 @@
+channel,campaign,signups,paying_customers,revenue_90_days,impressions,clicks,spend,ctr_percent,cpc,cac,paying_conversion_percent,roas
+paid_search,brand_search,2177,465,19470.18,269367,12173,10255.73,4.52,0.84,22.06,21.36,1.90
+paid_social,retargeting,2465,418,17411.40,1092376,17373,13069.49,1.59,0.75,31.27,16.96,1.33
+paid_search,generic_search,2008,432,16940.61,902920,22270,36123.97,2.47,1.62,83.62,21.51,0.47
+affiliate,finance_blogs,864,162,6316.41,710919,7794,15489.10,1.10,1.99,95.61,18.75,0.41
+paid_social,prospecting_video,6484,213,8765.43,5720376,68774,34269.63,1.20,0.50,160.89,3.29,0.26
+display,display_network,268,8,539.88,6660323,7907,16598.54,0.12,2.10,2074.82,2.99,0.03
+organic,organic_or_referral,3511,345,14472.80,0,0,0.00,NULL,NULL,0.00,9.83,NULL
+referral,organic_or_referral,1063,212,9475.56,0,0,0.00,NULL,NULL,0.00,19.94,NULL
